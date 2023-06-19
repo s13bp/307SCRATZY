@@ -220,12 +220,12 @@
                 T = () => (0, i.jsx)(E, {
                     children: [{
                         icon: "opensea",
-                        to: "https://opensea.io/collection/SCRAT INC. -genesis-collection",
+                        to: "https://opensea.io/collection/JESUS XRP -genesis-collection",
                         width: "16px",
                         height: "14px"
                     }, {
                         icon: "element",
-                        to: "https://www.element.market/collections/SCRAT INC. -genesis-collection",
+                        to: "https://www.element.market/collections/JESUS XRP -genesis-collection",
                         width: "14px",
                         height: "14px"
                     }, {
@@ -302,7 +302,7 @@
                         to: "/jobs"
                     }, {
                         label: "CONTACT",
-                        to: "mailto:contact@SCRAT INC. .co"
+                        to: "mailto:contact@JESUS XRP .co"
                     }, {
                         label: "PRIVACY POLICY",
                         to: "/privacy"

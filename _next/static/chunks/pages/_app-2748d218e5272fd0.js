@@ -8416,11 +8416,11 @@
                 l = n(9008),
                 u = n.n(l);
             let c = "https://google.com",
-                h = "SCRAT INC. is a Web-First Metaverse. A barrier-free experience for millions of users.",
-                d = "SCRAT INC. ",
+                h = "JESUS XRP is a Web-First Metaverse. A barrier-free experience for millions of users.",
+                d = "JESUS XRP ",
                 f = e => {
                     let {
-                        title: t = "SCRAT INC. "
+                        title: t = "JESUS XRP "
                     } = e;
                     return (0, i.jsx)(i.Fragment, {
                         children: (0, i.jsxs)(u(), {

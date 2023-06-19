@@ -1660,7 +1660,7 @@
                                     })
                                 }), " ", (0, i.jsx)("span", {
                                     children: (0, i.jsx)("span", {
-                                        children: "SCRAT INC. "
+                                        children: "JESUS XRP "
                                     })
                                 }), " ", (0, i.jsx)("span", {
                                     children: (0, i.jsx)("span", {
@@ -1679,21 +1679,21 @@
                             children: [(0, i.jsx)(eo, {}), (0, i.jsxs)(tX, {
                                 children: [(0, i.jsx)(es, {
                                     title: "GEN WORLD",
-                                    subtitle: "THE MAIN HUB OF THE SCRAT INC. METAVERSE.",
+                                    subtitle: "THE MAIN HUB OF THE JESUS XRP METAVERSE.",
                                     desc: "A place where all the communities gather to create and exchange in a virtual world made of lands fully owned by their respective NFT holder.",
                                     index: "1"
                                 }), (0, i.jsx)(es, {
-                                    title: "SCRAT INC. MICROVERSES",
+                                    title: "JESUS XRP MICROVERSES",
                                     subtitle: "METAVERSES FOR VIRTUAL EVENTS AND<br/> NFTS COMMUNITIES.",
                                     desc: "Fully customize your Microverse from the shape of the world, to the physics rules and the 3D art style and mint it as a NFTs in just 1 click.",
                                     index: "2"
                                 }), (0, i.jsx)(es, {
-                                    title: "SCRAT INC. MARKETPLACE",
+                                    title: "JESUS XRP MARKETPLACE",
                                     subtitle: "THE MOST USER-FRIENDLY NFT MARKETPLACE.",
                                     desc: "Free trade your creations and properties: wearables, avatars, lands, and even whole Microverses in our decentralized Marketplace or directly in the Metaverse.",
                                     index: "3"
                                 }), (0, i.jsx)(es, {
-                                    title: "SCRAT INC. BUILDER",
+                                    title: "JESUS XRP BUILDER",
                                     subtitle: "THE UNITY BUILDER FOR THE WEB.",
                                     desc: "A simple but powerful web-based Drag & Drop editor. Create experiences on top of your land in the GEN world, Microverse and more.",
                                     index: "4"
@@ -1836,7 +1836,7 @@
                             animateDelay: .6,
                             active: e ? "active" : "",
                             action: () => {
-                                window.open("https://alpha.SCRAT INC. .co/", "_blank")
+                                window.open("https://alpha.JESUS XRP .co/", "_blank")
                             },
                             label: "TRY NOW"
                         })
@@ -1863,12 +1863,12 @@
                                     }), (0, i.jsxs)("h2", {
                                         children: [(0, i.jsx)("span", {
                                             children: (0, i.jsx)("span", {
-                                                children: "307"
+                                                children: "JESUS"
                                             })
                                         }), (0, i.jsx)("span", {
                                             children: (0, i.jsx)("span", {
                                                 className: "ttlbtmmeta",
-                                                children: " SCRATATA"
+                                                children: " XRP"
                                             })
                                         })]
                                     }), (0, i.jsx)("p", {
@@ -1878,7 +1878,7 @@
                                         })
                                     }), (0, i.jsx)("p", {
                                         className: "sml",
-                                        children: "A Metaverse should be open to everyone. SCRAT INC. has been conceived with web technologies, to be accessible from any device through the browser in just 1 click."
+                                        children: "A Metaverse should be open to everyone. JESUS XRP has been conceived with web technologies, to be accessible from any device through the browser in just 1 click."
                                     }), (0, i.jsx)(eE, {
                                         children: (0, i.jsx)(eO, {
                                             active: n
@@ -1900,7 +1900,7 @@
                                         href: "https://utsubo.co/",
                                         target: "_blank",
                                         rel: "noreferrer",
-                                        children: "LIL MEOWMEOW"
+                                        children: "TRINITY"
                                     })]
                                 })
                             }), (0, i.jsx)(eN, {
@@ -1908,7 +1908,7 @@
                             }), (0, i.jsxs)(eT, {
                                 className: "cprright",
                                 children: [(0, i.jsx)("span", {
-                                    children: "\xa9SCRAT INC. ALL RIGHTS RESERVED 2022"
+                                    children: "\xa9JESUS XRP ALL RIGHTS RESERVED 2022"
                                 }), (0, i.jsx)(tg, {})]
                             })]
                         })]
@@ -2007,7 +2007,7 @@
                             children: [(0, i.jsx)(tg, {}), (0, i.jsx)("h5", {
                                 className: "rubik",
                                 children: (0, i.jsx)("span", {
-                                    children: "THE SCRAT INC. FOUNDATION STONE"
+                                    children: "THE JESUS XRP FOUNDATION STONE"
                                 })
                             }), (0, i.jsx)("h2", {
                                 children: (0, i.jsx)("span", {
@@ -2024,7 +2024,7 @@
                                 children: (0, i.jsxs)("ul", {
                                     children: [(0, i.jsx)(eY, {
                                         title: "THE BEGINNING",
-                                        desc: ["The SCRAT INC. team worked behind the scenes for months building our 1st Microverse experience: The prologue.", "This is a demonstration of our technical expertise and a sample of what we will offer to our community in the future.", "Incarnate The Ancients avatars for a limited time only during our alpha and discover the world of SCRAT INC. ."]
+                                        desc: ["The JESUS XRP team worked behind the scenes for months building our 1st Microverse experience: The prologue.", "This is a demonstration of our technical expertise and a sample of what we will offer to our community in the future.", "Incarnate The Ancients avatars for a limited time only during our alpha and discover the world of JESUS XRP ."]
                                     }), (0, i.jsx)(eY, {
                                         title: "THE ANCIENTS",
                                         desc: ["The creators and protectors of the Metaverse. ", "Through centuries, they survived countless bear markets, learned Satoshi Nakamoto's true identity, and were there for the release of Ethereum 3.0 in 2094.", "Master of the hodl philosophy, they are now the perfect link between nature and technology."]
@@ -2306,20 +2306,20 @@
                                     quarter: "ALREADY<br/>DONE",
                                     year: 22,
                                     title: "THE PROLOGUE",
-                                    subtitle: "AN INTRODUCTION TO THE SCRAT INC. METAVERSE,<br /> SHOWCASING ITS SOLID FOUNDATION.",
+                                    subtitle: "AN INTRODUCTION TO THE JESUS XRP METAVERSE,<br /> SHOWCASING ITS SOLID FOUNDATION.",
                                     features: ["The prologue Microverse", "The lobby Microverse", "The HUB Microverse", "Next-gen NFTs gallery", "Exciting mini-games", "NFTs collection", "Voice chat", "VR support", "A new world to explore", "Microverse building tools", "A lot of avatars collaborations", "Original particles system"]
                                 }, {
                                     quarter: "01",
                                     year: 23,
                                     title: "FOUNDATION",
                                     subtitle: "EXPANDING THE METAVERSE WITH<br/> MORE CONTENT AND MORE SOCIAL FEATURES.",
-                                    features: ["Collectible game", "SCRAT INC. Race", "SCRAT INC. Toy Box", "Photo mode", "Inventory system", "Live Events & Concerts", "Localization in 3 languages", "Android/iOS/Windows and Mac app release", "Friends list system", "GEN world foundation", "Land presale"]
+                                    features: ["Collectible game", "JESUS XRP Race", "JESUS XRP Toy Box", "Photo mode", "Inventory system", "Live Events & Concerts", "Localization in 3 languages", "Android/iOS/Windows and Mac app release", "Friends list system", "GEN world foundation", "Land presale"]
                                 }, {
                                     quarter: "02",
                                     year: 24,
                                     title: "CREATION",
                                     subtitle: "EMPOWERING CREATORS WITH NEVER SEEN<br /> BEFORE BUILDING TOOLS.",
-                                    features: ["Virtual land Marketplace & Map.", "Allowing creators to make their own world <br/>inside our metaverse, with powerful and<br/> easy-to-use building editor.", "Seamlessly add your own 3D model with<br/> physic capabilities, post-processing render<br/> control, lightning and particles system... <br/>Everything to give life to your ideas.", "Allowing creators to monetize their creation<br/> through the SCRAT INC. marketplace", "Avatars building tools"]
+                                    features: ["Virtual land Marketplace & Map.", "Allowing creators to make their own world <br/>inside our metaverse, with powerful and<br/> easy-to-use building editor.", "Seamlessly add your own 3D model with<br/> physic capabilities, post-processing render<br/> control, lightning and particles system... <br/>Everything to give life to your ideas.", "Allowing creators to monetize their creation<br/> through the JESUS XRP marketplace", "Avatars building tools"]
                                 }, {
                                     quarter: "NEX",
                                     title: "DISRUPTION",
@@ -2436,7 +2436,7 @@
                             children: (0, i.jsx)(iw(), {
                                 layout: "fill",
                                 src: t,
-                                alt: "SCRAT INC. character design",
+                                alt: "JESUS XRP character design",
                                 loading: "lazy",
                                 onLoad: n => {
                                     s(!0)
@@ -2500,7 +2500,7 @@
                                     }), (0, i.jsxs)(iS, {
                                         children: [(0, i.jsx)("h4", {
                                             children: (0, i.jsx)("span", {
-                                                children: "SCRAT INC. IS INITIATED BY:"
+                                                children: "JESUS XRP IS INITIATED BY:"
                                             })
                                         }), (0, i.jsxs)("ul", {
                                             children: [(0, i.jsx)(iV, {
@@ -2510,7 +2510,7 @@
                                                 twitter: "https://twitter.com"
                                             }), (0, i.jsx)(iV, {
                                                 cls: "cto",
-                                                name: "LIL MEOW MEOW",
+                                                name: "TRINITY",
                                                 status: "Co-Founder CTO",
                                                 linkedIn: "https://www.linkedin.com/in/",
                                                 twitter: "https://twitter.com/"
@@ -2776,7 +2776,7 @@
                             children: [(0, i.jsxs)("h2", {
                                 children: [(0, i.jsx)("span", {
                                     children: (0, i.jsx)("span", {
-                                        children: "SCRAT INC. "
+                                        children: "JESUS XRP "
                                     })
                                 }), " ", (0, i.jsx)("span", {
                                     children: (0, i.jsx)("span", {
@@ -2804,7 +2804,7 @@
                             children: (0, i.jsx)(iw(), {
                                 layout: "fill",
                                 src: "/images/version5.jpg",
-                                alt: "SCRAT INC. Futur Token placeholder design",
+                                alt: "JESUS XRP Futur Token placeholder design",
                                 loading: "lazy",
                                 onLoad: n => {
                                     t(!0)
@@ -2826,7 +2826,7 @@
                                     index: 1,
                                     title: "LARGE-SCALE",
                                     titleW: "MULTIPLAYER",
-                                    desc: "From day one, SCRAT INC. ’s cutting-edge technology will support up to 200 players at the same time per world instance. A never-before-seen number for a 3D Web Metaverse.",
+                                    desc: "From day one, JESUS XRP ’s cutting-edge technology will support up to 200 players at the same time per world instance. A never-before-seen number for a 3D Web Metaverse.",
                                     update: e
                                 }), (0, i.jsx)(i4, {
                                     active: 2 === n,
@@ -2840,7 +2840,7 @@
                                     index: 3,
                                     title: "ADVANCED",
                                     titleW: "INTEROPERABILITY",
-                                    desc: "Seamlessly embed SCRAT INC. ’s NFTs assets, lands, and Microverses directly in websites or blogs to share and let users interact with it.",
+                                    desc: "Seamlessly embed JESUS XRP ’s NFTs assets, lands, and Microverses directly in websites or blogs to share and let users interact with it.",
                                     update: e
                                 })]
                             })]
@@ -2966,7 +2966,7 @@
                             children: [(0, i.jsx)("span", {
                                 children: (0, i.jsx)("span", {
                                     className: "tokenname",
-                                    children: "SCRAT INC. \xa0"
+                                    children: "JESUS XRP \xa0"
                                 })
                             }), (0, i.jsx)("span", {
                                 children: (0, i.jsx)("span", {
@@ -2989,7 +2989,7 @@
                             children: (0, i.jsx)("p", {
                                 className: "xs",
                                 children: (0, i.jsxs)("span", {
-                                    children: ["Beware of scammers, always refer to official SCRAT INC. ", (0, i.jsx)("br", {}), " social network accounts and websites."]
+                                    children: ["Beware of scammers, always refer to official JESUS XRP ", (0, i.jsx)("br", {}), " social network accounts and websites."]
                                 })
                             })
                         })
@@ -3055,7 +3055,7 @@
                             height: "343",
                             layout: "responsive",
                             src: "/images/coin.webp",
-                            alt: "SCRAT INC. Futur Token placeholder design",
+                            alt: "JESUS XRP Futur Token placeholder design",
                             onLoad: n => {
                                 t(!0)
                             }
@@ -3092,7 +3092,7 @@
                                     })]
                                 }), (0, i.jsxs)("p", {
                                     className: "sml",
-                                    children: ["The SCRAT INC. ecosystem will be powered", (0, i.jsx)("br", {}), " by our main utility token."]
+                                    children: ["The JESUS XRP ecosystem will be powered", (0, i.jsx)("br", {}), " by our main utility token."]
                                 })]
                             }), (0, i.jsx)(ak, {}), (0, i.jsx)(aC, {})]
                         })
@@ -3283,7 +3283,7 @@
                                 children: [(0, i.jsx)("p", {
                                     className: "tectopme",
                                     children: (0, i.jsx)("span", {
-                                        children: "SCRAT INC. Metaverse"
+                                        children: "JESUS XRP Metaverse"
                                     })
                                 }), (0, i.jsx)("h2", {
                                     className: l ? "" : "smlrh",
@@ -3419,7 +3419,7 @@
                                     })]
                                 })]
                             }), (0, i.jsxs)("p", {
-                                children: ["SCRAT INC. is made by ", (0, i.jsx)("strong", {
+                                children: ["JESUS XRP is made by ", (0, i.jsx)("strong", {
                                     children: "EL PUTA"
                                 }), ", an award-winning,", (0, i.jsx)("br", {}), " Japan-based company", " ", (0, i.jsx)("span", {
                                     className: "highlight",
@@ -3431,7 +3431,7 @@
                                     children: "long-term commitment"
                                 }), " to the project."]
                             }), (0, i.jsxs)("p", {
-                                children: ["The strategic location of our company and our multicultural", (0, i.jsx)("br", {}), " team offer SCRAT INC. unique opportunities in the Asian, American, and European markets."]
+                                children: ["The strategic location of our company and our multicultural", (0, i.jsx)("br", {}), " team offer JESUS XRP unique opportunities in the Asian, American, and European markets."]
                             }), (0, i.jsxs)("p", {
                                 children: ["Want to be part of this adventure?", " ", (0, i.jsx)("a", {
                                     href: "#",

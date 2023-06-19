@@ -456,7 +456,7 @@
                     videoQuality: 1,
                     isUserChoice: !1
                 }), {
-                    name: "SCRAT INC. -video",
+                    name: "JESUS XRP -video",
                     getStorage: () => localStorage
                 })),
                 c = e => a(e, o.Z);
